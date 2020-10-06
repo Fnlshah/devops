@@ -1,6 +1,2 @@
 This is first commit
-
-Thia is feature one
-
 This feature2
-

@@ -1,6 +1,6 @@
 This is first commit
-
+<<<<<<< HEAD
 Thia is feature one
-
+=======
 This feature2
-
+>>>>>>> f2
